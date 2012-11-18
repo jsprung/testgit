@@ -1,4 +1,3 @@
  Das ist eine TEstdatei für Git
 
-
 asdfasdf
